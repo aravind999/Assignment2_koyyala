@@ -6,7 +6,7 @@ Assignment 2 ( i.e working on markdown)
 
 ***
 
-# ** Discusing About the nearest airport**
+# Discusing About the nearest airport
 The nearest airport that is closest to the museum is **kansas city airport**. The directions for the nearest airport is as follows.
 1. Take a left turn towards **NCounty club road** drive for about 0.2 miles.
 2. Then take a left turn onto **W S Hls Dr** and drive for about 1mile. 
