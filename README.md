@@ -37,7 +37,7 @@ This table depicts about few cities that i would  Recommend to visit.
 | California       | Hollywood Hills   | 1 Hours                   |
 | Tokyo            | Naruto Park       | 5 Hours                   | 
 | Amsterdam        | Tommorow land     | 12 Hours                  |
-
+| Ibiza            | Ibiza concert     | 3 Hours                   |
 
 ***
 #QUOTES
