@@ -19,6 +19,13 @@ The nearest airport that is closest to the museum is **kansas city airport**. Th
 9. Merge with the NW 120th Street.
 10. You arrived to the Kansas city international Airport.
 
+***
+There are few other places to visit as well . they are as follows 
+* maryivelle city library
+* Mozingo lake
+* Kansas city park
+* Nodaway lake
+
 
 
 
