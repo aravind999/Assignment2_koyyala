@@ -39,3 +39,9 @@ This table depicts about few cities that i would  Recommend to visit.
 | Amsterdam        | Tommorow land     | 12 Hours                  |
 
 
+***
+#QUOTES
+>Knowledge and awarness are vague, and perhaps better called illusions. Everyone lives within their own subjective interpretation. - *ITACHI UCHIHA*
+
+>Wake up to reality! Nothing ever goes as planned in this world. The longer you live , the more you realise that in this reality , only pain,suffering and futility exist. - *MADHARA UCHIHA*
+
