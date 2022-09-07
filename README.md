@@ -29,7 +29,7 @@ The nearest airport that is closest to the museum is **kansas city airport**. Th
 
 ***
 
-# TABLES
+# TABLE
 This table depicts about few cities that i would  Recommend to visit.
 
 | Name of the city | Location to visit | Time to spend at Location |
