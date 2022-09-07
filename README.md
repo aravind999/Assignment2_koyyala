@@ -25,7 +25,7 @@ The nearest airport that is closest to the museum is **kansas city airport**. Th
 * Kansas city park
 * Nodaway lake
 
-
+[This is a ABOUTME  link that is supped to be linked here. This link Describes a breif about myself along with other stuff in it ](AboutMe.md)
 
 
 
