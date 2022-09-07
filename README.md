@@ -45,3 +45,23 @@ This table depicts about few cities that i would  Recommend to visit.
 
 >Wake up to reality! Nothing ever goes as planned in this world. The longer you live , the more you realise that in this reality , only pain,suffering and futility exist. - *MADHARA UCHIHA*
 
+***
+
+##CODE FENCING
+
+How to Sass things for Links
+[Sass](https://sass-lang.com/guide)
+
+```
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+ 
+#{$a-tags} {
+  color: red;
+  text-decoration: none;
+}
+#{$a-tags-hover} {
+  color: blue;
+}
+```
+[code snippet](https://css-tricks.com/snippets/sass/sass-things-links/)
