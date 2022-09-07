@@ -27,5 +27,14 @@ The nearest airport that is closest to the museum is **kansas city airport**. Th
 
 [This is a ABOUTME  link that is supped to be linked here. This link Describes a breif about myself along with other stuff in it ](AboutMe.md)
 
+***
+
+# TABLES
+This table depicts about few cities that i would  Recommend to visit.
+
+| #Name of the city | #Location to visit | #Time to spend at Location |
+| California       | Hollywood Hills   | 1 Hours                   |
+| Tokyo            | Naruto Park       | 5 Hours                   | 
+| Amsterdam        | Tommorow land     | 12 Hours                  |
 
 
